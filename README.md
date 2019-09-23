@@ -1,2 +1,2 @@
-# inteerviewbit_python
+# interviewbit_python
 InterviewBit Practise in python
